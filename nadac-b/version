@@ -1,6 +1,6 @@
 {
   "module": "nadac-b",
-  "version": "0.2.3",
-  "fw_package": "fw_nadac-b_0.2.3.tar.gz",
-  "sha256_file": "fw_nadac-b_0.2.3.tar.gz.sha256"
+  "version": "0.2.4",
+  "fw_package": "fw_nadac-b_0.2.4.tar.gz",
+  "sha256_file": "fw_nadac-b_0.2.4.tar.gz.sha256"
 }
